@@ -1,0 +1,59 @@
+site_name: Roni Analytics
+
+# Themes related data
+theme:
+  # Language set to english
+  language: en
+
+  # Font family selection
+  font:
+    text: consolas
+    code: monaco
+
+  # Logo image
+  logo: assets\transpwhitebig.png
+  favicon: assets\transpwhitebig.png
+
+  # Navigation bar
+  featfeatures:
+    - navigation.instant
+    - navigation.tabs
+    - navigation.tabs.stickyures
+    - navigation.sections
+    - navigation.tracking
+
+  # Settings for dark/light/automatic theme
+  name: material
+  palette:
+    # Palette toggle for automatic mode
+    - media: "(prefers-color-scheme)"
+      primary: black
+      accent: amber
+      toggle:
+        icon: material/brightness-auto
+        name: Switch to light mode
+
+    # Palette toggle for light mode
+    - media: "(prefers-color-scheme: light)"
+      scheme: default
+      primary: black
+      accent: blue
+      toggle:
+        icon: material/brightness-7
+        name: Switch to dark mode
+
+    # Palette toggle for dark mode
+    - media: "(prefers-color-scheme: dark)"
+      scheme: slate
+      primary: black
+      accent: amber
+      toggle:
+        icon: material/brightness-4
+        name: Switch to light mode
+
+# This configuration adds the ability to align images, add captions to image
+# (rendering them as figures), and mark large images for lazy-loading.
+
+# Custom css file for custom styling
+extra_css:
+  - stylesheets/extra.css

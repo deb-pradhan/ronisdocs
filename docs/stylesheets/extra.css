@@ -1,0 +1,13 @@
+[data-md-color-scheme="slate"] {
+    --md-hue: 229; 
+  }
+  
+  [data-md-color-scheme="day"] {
+    --md-hue: 222; 
+  }
+
+  @font-face {
+    font-family: 'consolas';
+    src: "...";
+  }
+  
