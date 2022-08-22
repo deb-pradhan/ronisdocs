@@ -1,26 +1,18 @@
 site_name: Roni Analytics
 
-# Themes related data
+# Themes related data--------------------------------------------------------------------------
 theme:
-  # Language set to english
-  language: en
+  
+  language: en # Language set to english
 
-  # Font family selection
-  font:
+  
+  font: # Font family selection
     text: consolas
     code: monaco
 
   # Logo image
   logo: assets\transpwhitebig.png
   favicon: assets\transpwhitebig.png
-
-  # Navigation bar
-  featfeatures:
-    - navigation.instant
-    - navigation.tabs
-    - navigation.tabs.stickyures
-    - navigation.sections
-    - navigation.tracking
 
   # Settings for dark/light/automatic theme
   name: material
@@ -51,9 +43,32 @@ theme:
         icon: material/brightness-4
         name: Switch to light mode
 
+  # Navigation bar
+  features:
+          - navigation.instant
+          - navigation.sections
+          - navigation.expand
+          - navigation.tabs
+          - navigation.tabs.sticky
+          - navigation.tracking
+          - navigation.prune
+#themeENDS-------------------------------------------------------------------------------------------
+ 
+
+
 # This configuration adds the ability to align images, add captions to image
 # (rendering them as figures), and mark large images for lazy-loading.
 
 # Custom css file for custom styling
 extra_css:
   - stylesheets/extra.css
+
+extra:
+  generator: false
+  social:
+    - icon: fontawesome/brands/twitter 
+      link: https://twitter.com/RoniAnalytics
+      name: Roni Analytics Twitter
+    - icon: fontawesome/brands/linkedin 
+      link: https://www.linkedin.com/company/roni-analytics-llp
+      name: Roni Analytics Linkedin
