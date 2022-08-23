@@ -1,4 +1,7 @@
+
 # Wallet Analysis
+
+![walelt analysis header](\assets\1.png)
 
 In this project we are trying to follow the wallets with top balances and token level. We are
 following how the wallets are transacting which results in collecting inferences about the

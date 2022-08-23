@@ -1,5 +1,7 @@
 # NFT Analysis
 
+![NFT analysis header](\assets\2.png)
+
 In this project we would analyse the NFT transaction data of some top collections and build
 different metrics for getting better insights for developing NFTs and for traders.
 The NFT collections we targeted are:

@@ -1,5 +1,7 @@
 # Neutrino
 
+![Neurino header](\assets\3.png)
+
 Neutrino is an advanced visualization tool for displaying the networked nature of Bitcoin.
 
 In its simplest form, blockchain is a vast and complex series of transaction events between

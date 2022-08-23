@@ -1,6 +1,6 @@
 # About Us
 
-![roni header](assets/Roni Header.png)
+![roni header](\assets\Roni Header.png)
 
 Roni Analytics is a team of Quants, full stack developers and crypto analysts to connect and architect the decentralized blockchain economy. We provide optimal solutions with in-depth knowledge and experience to help our clients successfully launch a web3-based business.
 

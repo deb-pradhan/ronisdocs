@@ -1,5 +1,7 @@
 # OEMS
 
+![OEMS header](\assets\4.png)
+
 OEMS (Order Execution Management System) lets a user place orders on different
 exchanges. A user can track and manage all his trades through a single system.
 
